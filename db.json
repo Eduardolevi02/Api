@@ -1,14 +1,30 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "usuarios": [
+    {
+      "id": 1,
+      "nome": "Eduardo Levi",
+      "senha": "123456",
+      "diagnostico": "Asma leve persistente",
+      "fotoUrl": "https://meuservidor.com/imagens/perfil1.jpg"
+    },
+    {
+      "id": 2,
+      "nome": "Ana Souza",
+      "senha": "senhaSegura",
+      "diagnostico": "Bronquite crônica",
+      "fotoUrl": "https://meuservidor.com/imagens/perfil2.jpg"
+    },
+    {
+      "id": 3,
+      "nome": "Carlos Lima",
+      "senha": "abc123",
+      "diagnostico": "Sem diagnóstico recente",
+      "fotoUrl": "https://meuservidor.com/imagens/perfil3.jpg"
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+  "config": {
+    "versao": "1.0",
+    "apiInfo": "API fake para tela de perfil"
   }
 }
+
