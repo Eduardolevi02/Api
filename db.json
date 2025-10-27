@@ -5,21 +5,21 @@
       "nome": "Eduardo Levi",
       "senha": "123456",
       "diagnostico": "Asma leve persistente",
-      "fotoUrl": "https://meuservidor.com/imagens/perfil1.jpg"
+      "fotoUrl": "https://st4.depositphotos.com/1017228/20766/i/450/depositphotos_207663178-stock-photo-image-happy-young-man-standing.jpg"
     },
     {
       "id": 2,
       "nome": "Ana Souza",
       "senha": "senhaSegura",
       "diagnostico": "Bronquite crônica",
-      "fotoUrl": "https://meuservidor.com/imagens/perfil2.jpg"
+      "fotoUrl": "https://st4.depositphotos.com/1017228/20766/i/450/depositphotos_207663178-stock-photo-image-happy-young-man-standing.jpg"
     },
     {
       "id": 3,
       "nome": "Carlos Lima",
       "senha": "abc123",
       "diagnostico": "Sem diagnóstico recente",
-      "fotoUrl": "https://meuservidor.com/imagens/perfil3.jpg"
+      "fotoUrl": "https://st4.depositphotos.com/1017228/20766/i/450/depositphotos_207663178-stock-photo-image-happy-young-man-standing.jpg"
     }
   ],
   "config": {
